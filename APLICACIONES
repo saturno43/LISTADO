@@ -1,7 +1,7 @@
 - LATIN TV
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-GENERADOR
+GENERADOR DE LISTA PERSONALIZADA
 
 http://lista.latintvweb.com/generador/
 
@@ -9,19 +9,25 @@ http://lista.latintvweb.com/generador/
 
 REPRODUCTOR WEB
 
- http://185.152.66.151
+http://185.152.66.151
  
- :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+GUIA EPG (SOLO REEMPLAZA LOS XXX POR TUS DATOS)
+
+ username=antoniovasquez8933&password=3rdr3ChavD&type=m3u_plus&output=ts
+ 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
  
  PORTAL MAG
  
  http://tv.latintvweb.com:8000/c/
  
- :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
  
  APLICACIONES LATIN TV ANDROID
  
- :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
  
 LATINTV TV BOX EN PLAY STORE
 https://play.google.com/store/apps/details?id=com.latintvhd.latintvhdiptvbox
