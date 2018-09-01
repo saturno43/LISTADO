@@ -124,7 +124,7 @@ http://i-p.tv:8000/client_area/
 
 GUIA EPG DE WSU HD(SOLO REEMPLAZA LOS XXX POR TUS DATOS)
 
-http://192.99.80.6:8000/xmltv.php?username=XXXXX&password=XXXXX
+http://i-p.tv:8000/xmltv.php?username=XXXXX&password=XXXXX
  
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
  
@@ -162,7 +162,7 @@ http://i-p.tv/iptvuhd_movil_v1.2.apk
 [ANDROID - IOS - IPAD - IPHONE - APPLE TV]
 IPTV-Smarters 
 https://itunes.apple.com/mx/app/iptv-smarters/id1383614816?mt=8
-host: http://192.99.80.6:8000
+host: http://i-p.tv:8000
 username: TU USUARIO
 password: TU CONTRASEÑA
 
