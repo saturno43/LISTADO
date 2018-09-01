@@ -66,6 +66,12 @@ http://185.152.66.151/apk/latintvbox2.0.apk
 DESCARGA APK LATIN V3
 http://185.152.66.151/apk/LatinTvV4.apk
 
+[ANDROID - IOS - IPAD - IPHONE - APPLE TV]
+IPTV-Smarters 
+https://itunes.apple.com/mx/app/iptv-smarters/id1383614816?mt=8
+host: http://tv.proyectox.vip:8000
+username: TU USUARIO
+password: TU CONTRASEÑA
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -97,6 +103,139 @@ LISTADO DE CANALES DE LATIN TV
 https://raw.githubusercontent.com/saturno43/LISTADO/master/LATINTV
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
+
+
+
+-WSU HD
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+REPRODUCTOR WEB WSU HD
+
+http://i-p.tv:8000/client_area/
+ 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+GUIA EPG DE WSU HD(SOLO REEMPLAZA LOS XXX POR TUS DATOS)
+
+http://192.99.80.6:8000/xmltv.php?username=XXXXX&password=XXXXX
+ 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ 
+PORTAL MAG
+
+http://i-p.tv:8000/c
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+APLICACIONES WSU HD ANDROID
+ 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ 
+APLICACION OFICIAL EN PLAY STORE
+https://play.google.com/store/apps/details?id=com.wsuhd.wsuhdiptv
+(coloca el usuario y contraseña de tu cuenta)
+
+DESCARGA DIRECTA
+
+PERFECT PLAYER
+http://w-4k.com/perfectplayer_wsuhd.apk
+
+APLICACION TV BOX
+http://w-hd.net/wtvbox.apk
+
+PERFECT PLAYER
+http://i-p.tv/perfectplayer_iptvuhd.apk
+
+APLICACION TV BOX
+http://i-p.tv/iptvuhd_tvbox_v1.2.apk
+
+APLICACION MOVIL
+http://i-p.tv/iptvuhd_movil_v1.2.apk
+
+[ANDROID - IOS - IPAD - IPHONE - APPLE TV]
+IPTV-Smarters 
+https://itunes.apple.com/mx/app/iptv-smarters/id1383614816?mt=8
+host: http://192.99.80.6:8000
+username: TU USUARIO
+password: TU CONTRASEÑA
+
+WSU HD EN KODI 
+Repo Source:  
+http://i-p.tv/kodi/
+
+FIRETV
+Codigo FireDL:  
+370679
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Listas Optimizadas para OTTPlayer y SmartIPTV   <-----(Nuevo)
+
+TODO= Canales en Formato .ts / VOD / SERIES ORDENAS
+http://i-p.tv/sip/USERNAME/PASSWORD/playlist.m3u
+
+TODO= Canales en Formato .m3u8 / VOD / SERIES ORDENAS
+http://i-p.tv/sip8/USERNAME/PASSWORD/playlist.m3u
+
+Solo Canales en Formato .ts
+http://i-p.tv/ts/USERNAME/PASSWORD/playlist.m3u
+
+Solo Canales en Formato .m3u8
+http://i-p.tv/m3u8/USERNAME/PASSWORD/playlist.m3u
+
+Solo VOD Peliculas
+http://i-p.tv/vod/USERNAME/PASSWORD/playlist.m3u
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+CARACTERISTICAS DE WSU HD:
+
+- Mas de 800 canales
+- Mas de 300 HD
+- Mas de 200 FHD (INCLUIDOS SOLO EN EL PACK 2)
+- Mas de 40 canales 24/7
+- 5 CDF (incluye estadio CDF)
+- Mas de 2.000 peliculas
+- Mas de 30 series
+- Mas de 120 conciertos
+- Mas de 100 documentales
+- 13 Teleseries Chilenas
+  Sucupira - Sucupira Comedia - TicTac - La Fiera 
+  Aquelarre - Romane - Amores de Mercado
+  Los Pincherira - Papi Ricky - Infieles
+  Si yo fuera rico - Perdona Nuestros Pecados.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+LISTADO DE CANALES PACK 1
+https://raw.githubusercontent.com/saturno43/LISTADO/master/W-SUHD%20(pack1)
+
+http://i-p.tv/CHPACK1.php
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+LISTADO DE CANALES PACK 2
+https://raw.githubusercontent.com/saturno43/LISTADO/master/W-SUHD%20(pack2)
+
+http://i-p.tv/CHPACK2.php
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
+
+
+
+
 
 REPRODUCTORES DE IPTV
 
