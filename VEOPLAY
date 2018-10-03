@@ -1,30 +1,56 @@
-
-#EXTINF:-1,[UCL] NO HAY EVENTOS
-12694
-#EXTINF:-1,[COPA LIBERTADORES] NO HAY EVENTOS
-12689
-#EXTINF:-1,[COPA SUDAMERICANA] Caracas vs Sport Huancayo {OP1}
-12695
-#EXTINF:-1,[COPA SUDAMERICANA] Caracas vs Sport Huancayo {OP2}
-19836
-#EXTINF:-1,[COPA SUDAMERICANA] Lanús vs Junior {OP1}
-19837
-#EXTINF:-1,[COPA SUDAMERICANA] Lanús vs Junior {OP2}
-19838
-#EXTINF:-1,[LA LIGA] NO HAY EVENTOS
-12696
-#EXTINF:-1,[SERIE A TIM] NO HAY EVENTOS
-12698
-#EXTINF:-1,[LIGUE 1] NO HAY EVENTOS
-12700
-#EXTINF:-1,[UEL] NO HAY EVENTOS
-12679
-#EXTINF:-1,[EPL] NO HAY EVENTOS
-12697
-#EXTINF:-1,[BUNDESLIGA] NO HAY EVENTOS
-12699
-#EXTINF:-1,[LIGA MX] NO HAY EVENTOS
-12701
+#EXTM3U
+#EXTINF:-1,PSG vs Crvena Zvezda {OP1}
+21297
+#EXTINF:-1,PSG vs Crvena Zvezda {OP2}
+21298
+#EXTINF:-1,PSG vs Crvena Zvezda {OP3}
+21299
+#EXTINF:-1,PSG vs Crvena Zvezda {OP4}
+21300
+#EXTINF:-1,Lokomotiv Moskva vs Schalke 04 {OP1}
+21301
+#EXTINF:-1,Lokomotiv Moskva vs Schalke 04 {OP2}
+21302
+#EXTINF:-1,Atlético Madrid vs Club Brugge {OP1}
+21303
+#EXTINF:-1,Atlético Madrid vs Club Brugge {OP2}
+21304
+#EXTINF:-1,Atlético Madrid vs Club Brugge {OP3}
+21305
+#EXTINF:-1,Borussia Dortmund vs Monaco {OP1}
+21306
+#EXTINF:-1,Borussia Dortmund vs Monaco {OP2}
+21307
+#EXTINF:-1,Borussia Dortmund vs Monaco {OP3}
+21308
+#EXTINF:-1,Tottenham vs Barcelona {OP1}
+21309
+#EXTINF:-1,Tottenham vs Barcelona {OP2}
+21311
+#EXTINF:-1,Tottenham vs Barcelona {OP3}
+21312
+#EXTINF:-1,Tottenham vs Barcelona {OP4}
+21313
+#EXTINF:-1,Tottenham vs Barcelona {OP5}
+21314
+#EXTINF:-1,PSV vs Internazionale {OP1}
+21315
+#EXTINF:-1,PSV vs Internazionale {OP2}
+21316
+#EXTINF:-1,PSV vs Internazionale {OP3}
+21317
+#EXTINF:-1,Napoli vs Liverpool {OP1}
+21318
+#EXTINF:-1,Napoli vs Liverpool {OP2}
+21319
+#EXTINF:-1,Napoli vs Liverpool {OP3}
+21320
+#EXTINF:-1,Porto vs Galatasaray {OP1}
+21321
+#EXTINF:-1,Porto vs Galatasaray {OP2}
+21322
+#EXTINF:-1,Porto vs Galatasaray {OP3}
+21323
 #EXTINF:-1,24/7: The Simpsons HD
 836
 #EXTINF:-1,24/7: Bob Esponja SD
@@ -107,7 +133,7 @@
 4211
 #EXTINF:-1,Az Mundo FULL HD
 4182
-#EXTINF:-1,Azteca 13 FULL HD
+#EXTINF:-1,Azteca Trece / Uno FULL HD
 4122
 #EXTINF:-1,Azteca 7 FULL HD
 4210
@@ -207,8 +233,6 @@
 17768
 #EXTINF:-1,Paramount FULL HD
 4172
-#EXTINF:-1,Px Sports FULL HD
-4141
 #EXTINF:-1,Sony FULL HD
 4189
 #EXTINF:-1,Space FULL HD
@@ -217,18 +241,12 @@
 4138
 #EXTINF:-1,Syfy FULL HD
 4188
-#EXTINF:-1,Telehit FULL HD
-4136
 #EXTINF:-1,TeNeTe FULL HD
 4135
 #EXTINF:-1,TeNeTe Series FULL HD
 4187
 #EXTINF:-1,TruTV FULL HD
 4186
-#EXTINF:-1,TVC Deportes FULL HD
-4134
-#EXTINF:-1,TVC FULL HD
-4133
 #EXTINF:-1,Unicable FULL HD
 4185
 #EXTINF:-1,Universal Channel FULL HD
@@ -263,6 +281,8 @@
 3191
 #EXTINF:-1,Discovery Teather HD
 3190
+#EXTINF:-1,Discovery Home&Health HD
+20475
 #EXTINF:-1,Disney Channel HD
 3187
 #EXTINF:-1,DISNEY JUNIOR HD
@@ -401,6 +421,8 @@
 14240
 #EXTINF:-1,Starz West FHD
 14239
+#EXTINF:-1,AFIZZIONADOS HD
+20261
 #EXTINF:-1,A&E
 21
 #EXTINF:-1,AMC
@@ -445,7 +467,7 @@
 7
 #EXTINF:-1,Azteca Siete
 5
-#EXTINF:-1,Azteca Trece
+#EXTINF:-1,Azteca Trece / Uno
 6
 #EXTINF:-1,Bandamax
 100
@@ -453,6 +475,8 @@
 7453
 #EXTINF:-1,B31N Sp0rts Ñ HD
 144
+#EXTINF:-1,B31N Sp0rts Ñ HD {OP2}
+21252
 #EXTINF:-1,B31N Sp0rts 1
 215
 #EXTINF:-1,B31N Sp0rts 2
@@ -479,6 +503,10 @@
 226
 #EXTINF:-1,BO: ATB
 4261
+#EXTINF:-1,BO: TIGO SPORTS
+20118
+#EXTINF:-1,BO: TIGO SPORTS 2 (solo eventos)
+20271
 #EXTINF:-1,BO: Bolivia TV
 4256
 #EXTINF:-1,BO: Bolivision
@@ -527,10 +555,18 @@
 505
 #EXTINF:-1,CL: CDF PREMIUN
 109
-#EXTINF:-1,CL: CDF HD 720p {OP2}
+#EXTINF:-1,CL: CDF PREMIUM 720p
+7081
+#EXTINF:-1,CL: CDF HD (bajas conexiones)
 261
 #EXTINF:-1,CL: CDF FULL HD.
 7503
+#EXTINF:-1,CL: CDF FULL HD 2
+20402
+#EXTINF:-1,CL: CDF FULL HD 3
+21251
+#EXTINF:-1,CL: ESTADIO CDF HD
+20309
 #EXTINF:-1,CL: ETC TV
 19821
 #EXTINF:-1,CL: FOX Sports Chile 1 HD
@@ -539,8 +575,6 @@
 3527
 #EXTINF:-1,CL: FOX Sports Chile 3 HD
 3528
-#EXTINF:-1,CL: FM HOT
-7447
 #EXTINF:-1,CL: LA RED
 108
 #EXTINF:-1,CL: MEGA HD
@@ -557,8 +591,6 @@
 104
 #EXTINF:-1,CL: TVN
 2770
-#EXTINF:-1,CL: TVN 24 Horas
-970
 #EXTINF:-1,CL: UCV
 241
 #EXTINF:-1,24 HORAS PLAY - SOLO CHILE
@@ -597,8 +629,10 @@
 12621
 #EXTINF:-1,CO: Caracol HD
 236
-#EXTINF:-1,CO: Caracol HD - SOLO SUDAMERICA
-http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
+#EXTINF:-1,CO: RCN FULL HD
+20386
+#EXTINF:-1,CO: RCN HD
+20272
 #EXTINF:-1,CO: RCN
 141
 #EXTINF:-1,CO: RCN - SOLO SUDAMERICA
@@ -675,14 +709,18 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 251
 #EXTINF:-1,E!
 27
-#EXTINF:-1,EC: GOLTV HD (Audio Inglés)
-7484
 #EXTINF:-1,EC: CNT Sports {FULL HD}
 13504
 #EXTINF:-1,EC: CNT Sports HD
 3113
-#EXTINF:-1,EC: CNT Sports / GOLTV
+#EXTINF:-1,EC: GOLTV FULL HD
+20403
+#EXTINF:-1,EC: GOLTV
 12122
+#EXTINF:-1,EC: GOLTV HD
+7484
+#EXTINF:-1,EC: GOLTV HD (solo eventos)
+20315
 #EXTINF:-1,EC: Ecuavisa FULL HD
 4020
 #EXTINF:-1,EC: Ecuavisa HD
@@ -693,12 +731,12 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 4021
 #EXTINF:-1,EC: Teleamazonas HD
 3150
+#EXTINF:-1,EC: GAMA HD
+13502
 #EXTINF:-1,EC: TVC TELEVICENTRO
 12465
 #EXTINF:-1,EC: Ecuador TV
 131
-#EXTINF:-1,EC: GAMA HD
-13502
 #EXTINF:-1,EC: TC Television HD
 976
 #EXTINF:-1,EC: TC Television FULL HD
@@ -781,14 +819,16 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 161
 #EXTINF:-1,ES: Mega
 263
-#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
-159
 #EXTINF:-1,ES: MOVISTAR ACCION
 156
 #EXTINF:-1,ES: MOVISTAR COMEDIA
 335
 #EXTINF:-1,ES: MOVISTAR DCINE
 334
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES HD
+20378
+#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
+159
 #EXTINF:-1,ES: MOVISTAR DEPORTES 2
 333
 #EXTINF:-1,ES: MOVISTAR ESTRENOS
@@ -849,14 +889,8 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 86
 #EXTINF:-1,ESPN HD
 2215
-#EXTINF:-1,ESPN MX HD
-12888
-#EXTINF:-1,ESPN 2 HD
-2216
 #EXTINF:-1,ESPN 2 MX HD
 14288
-#EXTINF:-1,ESPN 3 HD
-2214
 #EXTINF:-1,ESPN ARGENTINA HD
 494
 #EXTINF:-1,ESPN 2 ARGENTINA HD
@@ -945,18 +979,90 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 31
 #EXTINF:-1,iSat
 83
+#EXTINF:-1,IT | Premium Calcio
+20375
+#EXTINF:-1,IT | Premium Calcio 1
+20374
+#EXTINF:-1,IT | Premium Calcio 2
+20373
+#EXTINF:-1,IT | Premium Calcio 3
+20372
+#EXTINF:-1,IT | Premium Calcio 5
+20371
+#EXTINF:-1,IT | Premium Calcio 6
+20370
+#EXTINF:-1,IT | Premium Sport
+20377
+#EXTINF:-1,IT | Premium Sport 1
+20376
 #EXTINF:-1,Lifetime
 60
 #EXTINF:-1,LOCOMOTION
 7486
+#EXTINF:-1,MLB Extra Inning 720
+20346
+#EXTINF:-1,MLB Extra Inning 721
+20347
+#EXTINF:-1,MLB Extra Inning 722
+20348
+#EXTINF:-1,MLB Extra Inning 723
+20349
+#EXTINF:-1,MLB Extra Inning 724
+20350
+#EXTINF:-1,MLB Extra Inning 725
+20351
+#EXTINF:-1,MLB Extra Inning 726
+20355
+#EXTINF:-1,MLB Extra Inning 727
+20354
+#EXTINF:-1,MLB Extra Inning 728
+20353
+#EXTINF:-1,MLB Extra Inning 729
+20352
+#EXTINF:-1,MLB Extra Inning 730
+20327
+#EXTINF:-1,MLB Extra Inning 731
+20345
+#EXTINF:-1,MLB Extra Inning 732
+20328
+#EXTINF:-1,MLB Extra Inning 733
+20329
+#EXTINF:-1,MLB Extra Inning 734
+20330
+#EXTINF:-1,MLB Extra Inning 735
+20331
+#EXTINF:-1,MLB Extra Inning 736
+20332
+#EXTINF:-1,MLB Extra Inning 737
+20333
+#EXTINF:-1,MLB Extra Inning 738
+20334
+#EXTINF:-1,MLB Extra Inning 739
+20335
+#EXTINF:-1,MLB Extra Inning 740
+20336
+#EXTINF:-1,MLB Extra Inning 741
+20337
+#EXTINF:-1,MLB Extra Inning 742
+20338
+#EXTINF:-1,MLB Extra Inning 743
+20339
+#EXTINF:-1,MLB Extra Inning 744
+20340
+#EXTINF:-1,MLB Extra Inning 745
+20341
+#EXTINF:-1,MLB Extra Inning 746
+20342
+#EXTINF:-1,MLB Extra Inning 747
+20343
+#EXTINF:-1,MLB Extra Inning 749
+20344
 #EXTINF:-1,MAX UP
 151
 #EXTINF:-1,MAX Prime
 498
 #EXTINF:-1,Music Choice
 6701
-#EXTINF:-1,MUSIC CHOICE: MC PLAY
-14124
 #EXTINF:-1,MUCH MUSIC
 13968
 #EXTINF:-1,MTV
@@ -983,20 +1089,62 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 44
 #EXTINF:-1,NBC UNIVERSO HD
 11942
+#EXTINF:-1,NFL | Arizona Cardinals
+21123
+#EXTINF:-1,NFL | Atlanta Falcons FULL HD
+21118
+#EXTINF:-1,NFL | Buffalo Bills
+21126
+#EXTINF:-1,NFL | Cincinnati Bengals
+21103
+#EXTINF:-1,NFL | Cleveland Brown
+21125
+#EXTINF:-1,NFL | Green Bay Packers
+21114
+#EXTINF:-1,NFL | Houston Texans
+21106
+#EXTINF:-1,NFL | Jacksonville Jaguars
+21117
+#EXTINF:-1,NFL | Kansas City Chiefs
+21121
+#EXTINF:-1,NFL | Los Angeles Chargers
+21122
+#EXTINF:-1,NFL | Los Angeles Rams
+21111
+#EXTINF:-1,NFL | Miami Dolphins
+21120
+#EXTINF:-1,NFL | Minnesota Vikings
+21104
+#EXTINF:-1,NFL | New England Patriots
+21113
+#EXTINF:-1,NFL | New Orleans Saints
+21109
+#EXTINF:-1,NFL | New York Jets
+21116
+#EXTINF:-1,NFL | Oakland Raiders
+21112
+#EXTINF:-1,NFL | Philadelphia Eagles
+21119
+#EXTINF:-1,NFL | Pittsburgh Steelers
+21107
+#EXTINF:-1,NFL | San Francisco 49ers
+21127
+#EXTINF:-1,NFL | Seattle Seahawks
+21108
+#EXTINF:-1,NFL | Tampa Bay Buccaneers FULL HD
+21124
+#EXTINF:-1,NFL | Tennessee Titans
+21105
+#EXTINF:-1,NFL | Washington Redskins
+21110
 #EXTINF:-1,Paramount
 213
-#EXTINF:-1,PA: Cable Onda Sport
-4002
-#EXTINF:-1,PA: Cable Onda Sport FC
-4000
 #EXTINF:-1,PA: ECO TV
 4006
-#EXTINF:-1,PA: OYE TV
-4004
-#EXTINF:-1,PA: RPC PANAMA
-4008
 #EXTINF:-1,PA: SER TV PANAMA
 4011
+#EXTINF:-1,PA: RPC PANAMA
+4008
 #EXTINF:-1,PA: TELEMETRO PANAMA HD
 4013
 #EXTINF:-1,PA: TV MAX PANAMA
@@ -1011,6 +1159,8 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 1045
 #EXTINF:-1,PE: GolPeru HD
 4367
+#EXTINF:-1,PE: Movistar Deportes || CMD
+235
 #EXTINF:-1,PE: Panamericana
 238
 #EXTINF:-1,PE: Peru Magico
@@ -1033,6 +1183,8 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 13496
 #EXTINF:-1,PR | WIPR
 13495
+#EXTINF:-1,RAI Italia
+20356
 #EXTINF:-1,RD: CDN
 7232
 #EXTINF:-1,RD: Digital 15
@@ -1065,6 +1217,8 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 82
 #EXTINF:-1,SyFy
 29
+#EXTINF:-1,SV: CANAL 4
+21053
 #EXTINF:-1,SV: Canal 10
 5013
 #EXTINF:-1,SV: Canal 11 El Salvador
@@ -1089,9 +1243,9 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 14
 #EXTINF:-1,Telehit
 94
-#EXTINF:-1,Telemundo
-146
 #EXTINF:-1,Telemundo Internacional
+146
+#EXTINF:-1,Telemundo
 147
 #EXTINF:-1,TELEMUNDO DEPORTES
 14235
@@ -1333,7 +1487,7 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 7722
 #EXTINF:-1,USA || Telemundo 52
 7711
-#EXTINF:-1,USA || Telemundo Chicago
+#EXTINF:-1,USA || Telemundo Phoenix
 7635
 #EXTINF:-1,USA|| Tennis Channel
 14004
@@ -1347,6 +1501,8 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 14038
 #EXTINF:-1,USA|| Viceland
 14010
+#EXTINF:-1,USA|| YES CHANNEL
+20114
 #EXTINF:-1,USA|| Willow Cricket
 13986
 #EXTINF:-1,USA|| World Fashion Channel
@@ -1569,24 +1725,6 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 13648
 #EXTINF:-1,USA: TSN 5
 13647
-#EXTINF:-1,USA || Sunday Ticket- NFL: 1
-3015
-#EXTINF:-1,USA || Sunday Ticket- NFL: 2
-3014
-#EXTINF:-1,USA || Sunday Ticket- NFL: 3
-3013
-#EXTINF:-1,USA || Sunday Ticket- NFL: 4
-3012
-#EXTINF:-1,USA || Sunday Ticket- NFL: 5
-3011
-#EXTINF:-1,USA || Sunday Ticket- NFL: 6
-3010
-#EXTINF:-1,USA || Sunday Ticket- NFL: 7
-3009
-#EXTINF:-1,USA || Sunday Ticket- NFL: 8
-3008
-#EXTINF:-1,USA || Sunday Ticket- NFL: 9
-3007
 #EXTINF:-1,VE: La Teletuya
 271
 #EXTINF:-1,VE: Telesur
@@ -1653,20 +1791,14 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 7799
 #EXTINF:-1,Warner Channel
 18
-#EXTINF:-1,PPV: 1 (Solo eventos)
-1482
-#EXTINF:-1,PPV: 2 (Solo eventos)
-1483
-#EXTINF:-1,PPV: 3 (Solo eventos)
-1484
-#EXTINF:-1,PPV: 4 (Solo eventos)
-1485
-#EXTINF:-1,PPV: 5 (Solo eventos)
-1486
-#EXTINF:-1,PPV: 6 (Solo eventos)
-1487
 #EXTINF:-1,### ESTRENOS CAM-TS ###
 10299
+#EXTINF:-1,MEGALODON CAM
+20489
+#EXTINF:-1,La Monja CAM.
+20474
+#EXTINF:-1,Misión: Imposible - Fallout (CAM)
+20313
 #EXTINF:-1,El Rascacielos CAM
 19777
 #EXTINF:-1,Jurassic World 2: El reino caído - CAM
@@ -1701,6 +1833,28 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 9810
 #EXTINF:-1,#### ESTRENOS ###
 10301
+#EXTINF:-1,Ant-Man y la Avispa
+21290?dl=1
+#EXTINF:-1,Hotel Transylvania 3
+21261?dl=1
+#EXTINF:-1,La nueva generación
+20485
+#EXTINF:-1,Sierra Burgess es una perdedora
+20486
+#EXTINF:-1,El Rascacielos SUB
+20469
+#EXTINF:-1,Ocean's 8
+20467
+#EXTINF:-1,Jurassic World: El reino caído
+20466
+#EXTINF:-1,Reprisal
+20459
+#EXTINF:-1,Deadpool 2
+20312
+#EXTINF:-1,Los Vengadores: Infinity War
+20273
+#EXTINF:-1,Hombre al agua
+20260
 #EXTINF:-1,Life of the Party
 18979
 #EXTINF:-1,Sexy por accidente
@@ -1931,6 +2085,8 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 11940
 #EXTINF:-1,###################### ACCION ######################
 8970
+#EXTINF:-1,Gringo: Se busca vivo o muerto
+20270
 #EXTINF:-1,El final de todo
 19775
 #EXTINF:-1,Huracán categoría 5
@@ -2051,6 +2207,14 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 8972
 #EXTINF:-1,#### COMEDIA ###
 9009
+#EXTINF:-1,El hombre más enfadado de Brooklyn
+21102?dl=1
+#EXTINF:-1,#SexPact
+20473
+#EXTINF:-1,¡Te Atrapé!
+20458
+#EXTINF:-1,Papás con honores
+20259
 #EXTINF:-1,Daphne & Velma
 18975
 #EXTINF:-1,Noche de juegos
@@ -2181,6 +2345,8 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 8990
 #EXTINF:-1,### DRAMA ###
 9068
+#EXTINF:-1,Si solo pudiera imaginar
+20258
 #EXTINF:-1,María Magdalena
 19776
 #EXTINF:-1,Cada Día
@@ -2367,6 +2533,10 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 9057
 #EXTINF:-1,### CIENCIA FICCION ###
 9086
+#EXTINF:-1,Han Solo: Una historia de Star Wars
+20487
+#EXTINF:-1,Ant-Man
+20468
 #EXTINF:-1,Tau
 17773
 #EXTINF:-1,Pacific Rim: Insurrección
@@ -2421,6 +2591,10 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 9078
 #EXTINF:-1,### INFANTIL ###
 9129
+#EXTINF:-1,La Leyenda del Charro Negro
+20492
+#EXTINF:-1,Condorito: la película
+20470
 #EXTINF:-1,La muerte de Superman
 18978
 #EXTINF:-1,Marcianos vs Mexicanos
@@ -2533,6 +2707,8 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 9107
 #EXTINF:-1,### SUSPENSO ###
 9147
+#EXTINF:-1,Jack Ryan: Operación sombra
+20493
 #EXTINF:-1,Perturbada
 19780
 #EXTINF:-1,In the Cloud
@@ -2589,6 +2765,16 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 9131
 #EXTINF:-1,### TERROR ###
 9169
+#EXTINF:-1,The Crucifixion
+20495
+#EXTINF:-1,Perdida
+20494
+#EXTINF:-1,1974: La posesión de Altair
+20491
+#EXTINF:-1,La mujer más asesinada del mundo
+20490
+#EXTINF:-1,El legado del diablo
+20488
 #EXTINF:-1,Un lugar tranquilo
 17982
 #EXTINF:-1,Paranormal Activity
@@ -3869,116 +4055,6 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 10541
 #EXTINF:-1,Stranger Things - s02e09
 10549
-#EXTINF:-1,Supergirl - S01E01 – Pilot
-7577
-#EXTINF:-1,Supergirl - S01E02 – Stronger Together
-7565
-#EXTINF:-1,Supergirl - S01E03 – Fight or Flight
-7573
-#EXTINF:-1,Supergirl - S01E04 – Livewire
-7576
-#EXTINF:-1,Supergirl - S01E05 – How Does She Do It
-7578
-#EXTINF:-1,Supergirl - S01E06 – Red Faced
-7563
-#EXTINF:-1,Supergirl - S01E07 – Human for a Day
-7575
-#EXTINF:-1,Supergirl - S01E08 - Hostile Takeover
-7569
-#EXTINF:-1,Supergirl - S01E09 - Blood Bonds
-7567
-#EXTINF:-1,Supergirl - S01E10 - Childish Things
-7560
-#EXTINF:-1,Supergirl - S01E11 - Strange Visitor from Another Planet
-7571
-#EXTINF:-1,Supergirl - S01E12 - Bizarro
-7566
-#EXTINF:-1,Supergirl - S01E13 - For the Girl Who Has Everything
-7572
-#EXTINF:-1,Supergirl - S01E14 - Truth, Justice and the American Way_A
-7574
-#EXTINF:-1,Supergirl - S01E15 - Solitude
-7568
-#EXTINF:-1,Supergirl - S01E16 - Falling_A
-7561
-#EXTINF:-1,Supergirl - S01E17 - Manhunter_A
-7562
-#EXTINF:-1,Supergirl - S01E18 - Worlds Finest
-7579
-#EXTINF:-1,Supergirl - S01E19 - Myriad
-7564
-#EXTINF:-1,Supergirl - S01E20 - Better Angels
-7570
-#EXTINF:-1,Supergirl S02E01
-7584
-#EXTINF:-1,Supergirl S02E02
-7592
-#EXTINF:-1,Supergirl S02E03
-7591
-#EXTINF:-1,Supergirl S02E04
-7597
-#EXTINF:-1,Supergirl S02E05
-7595
-#EXTINF:-1,Supergirl S02E06
-7585
-#EXTINF:-1,Supergirl S02E07
-7598
-#EXTINF:-1,Supergirl S02E08
-7583
-#EXTINF:-1,Supergirl S02E09
-7590
-#EXTINF:-1,Supergirl S02E10
-7601
-#EXTINF:-1,Supergirl S02E11
-7582
-#EXTINF:-1,Supergirl S02E12
-7589
-#EXTINF:-1,Supergirl S02E13
-7586
-#EXTINF:-1,Supergirl S02E14
-7594
-#EXTINF:-1,Supergirl S02E15
-7581
-#EXTINF:-1,Supergirl S02E16
-7580
-#EXTINF:-1,Supergirl S02E17
-7596
-#EXTINF:-1,Supergirl S02E18
-7587
-#EXTINF:-1,Supergirl S02E19
-7593
-#EXTINF:-1,Supergirl S02E20
-7600
-#EXTINF:-1,Supergirl S02E21
-7599
-#EXTINF:-1,Supergirl S02E22
-7588
-#EXTINF:-1,Supergirl S03E01
-7608
-#EXTINF:-1,Supergirl S03E02
-7606
-#EXTINF:-1,Supergirl S03E03
-7603
-#EXTINF:-1,Supergirl S03E04
-7604
-#EXTINF:-1,Supergirl S03E05
-7602
-#EXTINF:-1,Supergirl S03E06
-7610
-#EXTINF:-1,Supergirl S03E07
-7607
-#EXTINF:-1,Supergirl S03E08
-7605
-#EXTINF:-1,Supergirl S03E09
-7614
-#EXTINF:-1,Supergirl S03E10
-7613
-#EXTINF:-1,Supergirl S03E11
-7611
-#EXTINF:-1,Supergirl S03E12
-7609
-#EXTINF:-1,Supergirl S03E13
-7612
 #EXTINF:-1,### NARCOS ###
 9942
 #EXTINF:-1,Narcos - s01e01
@@ -5267,36 +5343,6 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 3461
 #EXTINF:-1,GAME OF THRONES 	7 X 06
 3460
-#EXTINF:-1,LaCasaDePapel T1E1
-7842
-#EXTINF:-1,LaCasaDePapel T1E2
-7837
-#EXTINF:-1,LaCasaDePapel T1E3
-7832
-#EXTINF:-1,LaCasaDePapel T1E4
-7839
-#EXTINF:-1,LaCasaDePapel T1E5
-7841
-#EXTINF:-1,LaCasaDePapel T1E6
-7834
-#EXTINF:-1,LaCasaDePapel T1E7
-7835
-#EXTINF:-1,LaCasaDePapel T1E8
-7840
-#EXTINF:-1,LaCasaDePapel T1E9
-7830
-#EXTINF:-1,LaCasaDePapel T2E1
-7829
-#EXTINF:-1,LaCasaDePapel T2E2
-7838
-#EXTINF:-1,LaCasaDePapel T2E3
-7833
-#EXTINF:-1,LaCasaDePapel T2E4
-7828
-#EXTINF:-1,LaCasaDePapel T2E5
-7831
-#EXTINF:-1,LaCasaDePapel T2E6
-7836
 #EXTINF:-1,Spartacus S01E01.720p Dual
 8794
 #EXTINF:-1,Spartacus S01E02.720p Dual
@@ -10463,6 +10509,8 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 3097
 #EXTINF:-1,Sansón
 14627
+#EXTINF:-1,Truth or Dare
+20254
 #EXTINF:-1,XXX: RedLight HD
 211
 #EXTINF:-1,XXX: PentHouse HD
@@ -10659,6 +10707,22 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 18064
 #EXTINF:-1,Sin senos sí hay paraíso S03 E20
 19492
+#EXTINF:-1,Sin senos sí hay paraíso S03 E21
+19987
+#EXTINF:-1,Sin senos sí hay paraíso S03 E22
+19988
+#EXTINF:-1,Sin senos sí hay paraíso S03 E23
+19989
+#EXTINF:-1,Sin senos sí hay paraíso S03 E24
+19990
+#EXTINF:-1,Sin senos sí hay paraíso S03 E25
+20039
+#EXTINF:-1,Sin senos sí hay paraíso S03 E26
+20040
+#EXTINF:-1,Sin senos sí hay paraíso S03 E27
+20041
+#EXTINF:-1,Sin senos sí hay paraíso S03 E28
+20256
 #EXTINF:-1,Absentia S01 E01
 14328
 #EXTINF:-1,Absentia S01 E02
@@ -10796,133 +10860,139 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 #EXTINF:-1,Los 100 S01 E01
 14762
 #EXTINF:-1,Los 100 S01 E02
-14777
+14799
 #EXTINF:-1,Los 100 S01 E03
-14778
+14798
 #EXTINF:-1,Los 100 S01 E04
-14779
+14797
 #EXTINF:-1,Los 100 S01 E05
-14793
+14777
 #EXTINF:-1,Los 100 S01 E06
-14794
+14779
 #EXTINF:-1,Los 100 S01 E07
 14795
 #EXTINF:-1,Los 100 S01 E08
-14796
+14794
 #EXTINF:-1,Los 100 S01 E09
-14797
+14793
 #EXTINF:-1,Los 100 S01 E10
-14798
-#EXTINF:-1,Los 100 S01 E11
-14799
-#EXTINF:-1,Los 100 S01 E12
 14800
-#EXTINF:-1,Los 100 S01 E13
+#EXTINF:-1,Los 100 S01 E11
 14801
+#EXTINF:-1,Los 100 S01 E12
+14796
+#EXTINF:-1,Los 100 S01 E13
+14778
 #EXTINF:-1,Los 100 S02 E01
-14763
-#EXTINF:-1,Los 100 S02 E02
-14764
-#EXTINF:-1,Los 100 S02 E03
-14765
-#EXTINF:-1,Los 100 S02 E04
-14780
-#EXTINF:-1,Los 100 S02 E05
-14781
-#EXTINF:-1,Los 100 S02 E06
-14782
-#EXTINF:-1,Los 100 S02 E07
-14783
-#EXTINF:-1,Los 100 S02 E08
-14802
-#EXTINF:-1,Los 100 S02 E09
-14803
-#EXTINF:-1,Los 100 S02 E10
-14804
-#EXTINF:-1,Los 100 S02 E11
-14805
-#EXTINF:-1,Los 100 S02 E12
-14806
-#EXTINF:-1,Los 100 S02 E13
-14807
-#EXTINF:-1,Los 100 S02 E14
-14808
-#EXTINF:-1,Los 100 S02 E15
-14809
-#EXTINF:-1,Los 100 S02 E16
 14810
+#EXTINF:-1,Los 100 S02 E02
+14809
+#EXTINF:-1,Los 100 S02 E03
+14808
+#EXTINF:-1,Los 100 S02 E04
+14807
+#EXTINF:-1,Los 100 S02 E05
+14804
+#EXTINF:-1,Los 100 S02 E06
+14806
+#EXTINF:-1,Los 100 S02 E07
+14805
+#EXTINF:-1,Los 100 S02 E08
+14803
+#EXTINF:-1,Los 100 S02 E09
+14802
+#EXTINF:-1,Los 100 S02 E10
+14781
+#EXTINF:-1,Los 100 S02 E11
+14765
+#EXTINF:-1,Los 100 S02 E12
+14764
+#EXTINF:-1,Los 100 S02 E13
+14763
+#EXTINF:-1,Los 100 S02 E14
+14780
+#EXTINF:-1,Los 100 S02 E15
+14782
+#EXTINF:-1,Los 100 S02 E16
+14783
 #EXTINF:-1,Los 100 S03 E01
-14766
+14814
 #EXTINF:-1,Los 100 S03 E02
-14767
-#EXTINF:-1,Los 100 S03 E03
 14768
+#EXTINF:-1,Los 100 S03 E03
+14767
 #EXTINF:-1,Los 100 S03 E04
-14769
+14766
 #EXTINF:-1,Los 100 S03 E05
-14770
+14818
 #EXTINF:-1,Los 100 S03 E06
-14771
+14817
 #EXTINF:-1,Los 100 S03 E07
-14784
+14816
 #EXTINF:-1,Los 100 S03 E08
-14785
-#EXTINF:-1,Los 100 S03 E09
 14811
+#EXTINF:-1,Los 100 S03 E09
+14815
 #EXTINF:-1,Los 100 S03 E10
 14812
 #EXTINF:-1,Los 100 S03 E11
 14813
 #EXTINF:-1,Los 100 S03 E12
-14814
+14769
 #EXTINF:-1,Los 100 S03 E13
-14815
+14771
 #EXTINF:-1,Los 100 S03 E14
-14816
+14785
 #EXTINF:-1,Los 100 S03 E15
-14817
+14770
 #EXTINF:-1,Los 100 S03 E16
-14818
+14784
 #EXTINF:-1,Los 100 S04 E01
-14772
+14821
 #EXTINF:-1,Los 100 S04 E02
-14786
+14820
 #EXTINF:-1,Los 100 S04 E03
-14787
+14822
 #EXTINF:-1,Los 100 S04 E04
-14788
+14823
 #EXTINF:-1,Los 100 S04 E05
-14789
+14824
 #EXTINF:-1,Los 100 S04 E06
-14790
+14786
 #EXTINF:-1,Los 100 S04 E07
-14791
+14787
 #EXTINF:-1,Los 100 S04 E08
 14819
 #EXTINF:-1,Los 100 S04 E09
-14820
+14790
 #EXTINF:-1,Los 100 S04 E10
-14821
+14791
 #EXTINF:-1,Los 100 S04 E11
-14822
+14789
 #EXTINF:-1,Los 100 S04 E12
-14823
+14788
 #EXTINF:-1,Los 100 S04 E13
-14824
+14772
 #EXTINF:-1,Los 100 S05 E01
-14773
+20107
 #EXTINF:-1,Los 100 S05 E02
-14774
+20106
 #EXTINF:-1,Los 100 S05 E03
-14775
-#EXTINF:-1,Los 100 S05 E04
-14776
-#EXTINF:-1,Los 100 S05 E05
-14792
-#EXTINF:-1,Los 100 S05 E06
-14825
-#EXTINF:-1,Los 100 S05 E07
 14826
+#EXTINF:-1,Los 100 S05 E04
+14825
+#EXTINF:-1,Los 100 S05 E05
+14773
+#EXTINF:-1,Los 100 S05 E06
+14774
+#EXTINF:-1,Los 100 S05 E07
+14775
+#EXTINF:-1,Los 100 S05 E08
+14776
+#EXTINF:-1,Los 100 S05 E09
+14792
+#EXTINF:-1,Los 100 S05 E10
+20108
 #EXTINF:-1,Fear the Walking Dead S01 E01
 14827
 #EXTINF:-1,Fear the Walking Dead S01 E02
@@ -11741,6 +11811,32 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 15245
 #EXTINF:-1,Bleach S16 E24
 15246
+#EXTINF:-1,Hellsing S01 E01
+15247
+#EXTINF:-1,Hellsing S01 E02
+15252
+#EXTINF:-1,Hellsing S01 E03
+15253
+#EXTINF:-1,Hellsing S01 E04
+15254
+#EXTINF:-1,Hellsing S01 E05
+15255
+#EXTINF:-1,Hellsing S01 E06
+15256
+#EXTINF:-1,Hellsing S01 E07
+15257
+#EXTINF:-1,Hellsing S01 E08
+15258
+#EXTINF:-1,Hellsing S01 E09
+15259
+#EXTINF:-1,Hellsing S01 E10
+15248
+#EXTINF:-1,Hellsing S01 E11
+15249
+#EXTINF:-1,Hellsing S01 E12
+15250
+#EXTINF:-1,Hellsing S01 E13
+15251
 #EXTINF:-1,Death Note S01 E01
 15260
 #EXTINF:-1,Death Note S01 E02
@@ -11815,32 +11911,6 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 15289
 #EXTINF:-1,Death Note S01 E37
 15290
-#EXTINF:-1,Hellsing S01 E01
-15247
-#EXTINF:-1,Hellsing S01 E02
-15252
-#EXTINF:-1,Hellsing S01 E03
-15253
-#EXTINF:-1,Hellsing S01 E04
-15254
-#EXTINF:-1,Hellsing S01 E05
-15255
-#EXTINF:-1,Hellsing S01 E06
-15256
-#EXTINF:-1,Hellsing S01 E07
-15257
-#EXTINF:-1,Hellsing S01 E08
-15258
-#EXTINF:-1,Hellsing S01 E09
-15259
-#EXTINF:-1,Hellsing S01 E10
-15248
-#EXTINF:-1,Hellsing S01 E11
-15249
-#EXTINF:-1,Hellsing S01 E12
-15250
-#EXTINF:-1,Hellsing S01 E13
-15251
 #EXTINF:-1,Z Nation S01 E01
 15298
 #EXTINF:-1,Z Nation S01 E02
@@ -13594,13 +13664,13 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 #EXTINF:-1,Los Simpson S19 E18
 17476
 #EXTINF:-1,Los Simpson S19 E19
-17434
-#EXTINF:-1,Los Simpson S19 E20
 17477
+#EXTINF:-1,Los Simpson S19 E20
+17434
 #EXTINF:-1,Los Simpson S19 E21
-17435
-#EXTINF:-1,Los Simpson S19 E22
 17478
+#EXTINF:-1,Los Simpson S19 E22
+17435
 #EXTINF:-1,Los Simpson S20 E01
 17479
 #EXTINF:-1,Los Simpson S20 E02
@@ -17057,50 +17127,32 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 18789
 #EXTINF:-1,Don Gato y su pandilla S01 E30
 18790
-#EXTINF:-1,SEAL Team S01 E01
-18856
-#EXTINF:-1,SEAL Team S01 E02
-18857
-#EXTINF:-1,SEAL Team S01 E03
-18858
-#EXTINF:-1,SEAL Team S01 E04
-18859
-#EXTINF:-1,SEAL Team S01 E05
-18860
-#EXTINF:-1,SEAL Team S01 E06
-18861
-#EXTINF:-1,SEAL Team S01 E07
-18862
-#EXTINF:-1,SEAL Team S01 E08
-18863
-#EXTINF:-1,SEAL Team S01 E09
-18864
-#EXTINF:-1,SEAL Team S01 E10
-18865
-#EXTINF:-1,SEAL Team S01 E11
-18866
-#EXTINF:-1,SEAL Team S01 E12
-18867
-#EXTINF:-1,SEAL Team S01 E13
-18868
-#EXTINF:-1,SEAL Team S01 E14
-18869
-#EXTINF:-1,SEAL Team S01 E15
-18870
-#EXTINF:-1,SEAL Team S01 E16
-18871
-#EXTINF:-1,SEAL Team S01 E17
-18872
-#EXTINF:-1,SEAL Team S01 E18
-18873
-#EXTINF:-1,SEAL Team S01 E19
-18874
-#EXTINF:-1,SEAL Team S01 E20
-18875
-#EXTINF:-1,SEAL Team S01 E21
-18876
-#EXTINF:-1,SEAL Team S01 E22
-18877
+#EXTINF:-1,¿Dónde está Wally? S01 E01
+18791
+#EXTINF:-1,¿Dónde está Wally? S01 E02
+18792
+#EXTINF:-1,¿Dónde está Wally? S01 E03
+18793
+#EXTINF:-1,¿Dónde está Wally? S01 E04
+18794
+#EXTINF:-1,¿Dónde está Wally? S01 E05
+18795
+#EXTINF:-1,¿Dónde está Wally? S01 E06
+18796
+#EXTINF:-1,¿Dónde está Wally? S01 E07
+18797
+#EXTINF:-1,¿Dónde está Wally? S01 E08
+18798
+#EXTINF:-1,¿Dónde está Wally? S01 E09
+18799
+#EXTINF:-1,¿Dónde está Wally? S01 E10
+18800
+#EXTINF:-1,¿Dónde está Wally? S01 E11
+18801
+#EXTINF:-1,¿Dónde está Wally? S01 E12
+18802
+#EXTINF:-1,¿Dónde está Wally? S01 E13
+18803
 #EXTINF:-1,El Autobus Magico S01 E01
 18804
 #EXTINF:-1,El Autobus Magico S01 E02
@@ -17205,32 +17257,50 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 18854
 #EXTINF:-1,El Autobus Magico S01 E52
 18855
-#EXTINF:-1,¿Dónde está Wally? S01 E01
-18791
-#EXTINF:-1,¿Dónde está Wally? S01 E02
-18792
-#EXTINF:-1,¿Dónde está Wally? S01 E03
-18793
-#EXTINF:-1,¿Dónde está Wally? S01 E04
-18794
-#EXTINF:-1,¿Dónde está Wally? S01 E05
-18795
-#EXTINF:-1,¿Dónde está Wally? S01 E06
-18796
-#EXTINF:-1,¿Dónde está Wally? S01 E07
-18797
-#EXTINF:-1,¿Dónde está Wally? S01 E08
-18798
-#EXTINF:-1,¿Dónde está Wally? S01 E09
-18799
-#EXTINF:-1,¿Dónde está Wally? S01 E10
-18800
-#EXTINF:-1,¿Dónde está Wally? S01 E11
-18801
-#EXTINF:-1,¿Dónde está Wally? S01 E12
-18802
-#EXTINF:-1,¿Dónde está Wally? S01 E13
-18803
+#EXTINF:-1,SEAL Team S01 E01
+18856
+#EXTINF:-1,SEAL Team S01 E02
+18857
+#EXTINF:-1,SEAL Team S01 E03
+18858
+#EXTINF:-1,SEAL Team S01 E04
+18859
+#EXTINF:-1,SEAL Team S01 E05
+18860
+#EXTINF:-1,SEAL Team S01 E06
+18861
+#EXTINF:-1,SEAL Team S01 E07
+18862
+#EXTINF:-1,SEAL Team S01 E08
+18863
+#EXTINF:-1,SEAL Team S01 E09
+18864
+#EXTINF:-1,SEAL Team S01 E10
+18865
+#EXTINF:-1,SEAL Team S01 E11
+18866
+#EXTINF:-1,SEAL Team S01 E12
+18867
+#EXTINF:-1,SEAL Team S01 E13
+18868
+#EXTINF:-1,SEAL Team S01 E14
+18869
+#EXTINF:-1,SEAL Team S01 E15
+18870
+#EXTINF:-1,SEAL Team S01 E16
+18871
+#EXTINF:-1,SEAL Team S01 E17
+18872
+#EXTINF:-1,SEAL Team S01 E18
+18873
+#EXTINF:-1,SEAL Team S01 E19
+18874
+#EXTINF:-1,SEAL Team S01 E20
+18875
+#EXTINF:-1,SEAL Team S01 E21
+18876
+#EXTINF:-1,SEAL Team S01 E22
+18877
 #EXTINF:-1,Luke Cage S01 E01
 18878
 #EXTINF:-1,Luke Cage S01 E02
@@ -17555,6 +17625,82 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 19127
 #EXTINF:-1,El Crítico S02 E10
 19128
+#EXTINF:-1,La Liga del Dragón S01 E01
+19129
+#EXTINF:-1,La Liga del Dragón S01 E02
+19130
+#EXTINF:-1,La Liga del Dragón S01 E03
+19131
+#EXTINF:-1,La Liga del Dragón S01 E04
+19132
+#EXTINF:-1,La Liga del Dragón S01 E05
+19133
+#EXTINF:-1,La Liga del Dragón S01 E06
+19134
+#EXTINF:-1,La Liga del Dragón S01 E07
+19135
+#EXTINF:-1,La Liga del Dragón S01 E08
+19136
+#EXTINF:-1,La Liga del Dragón S01 E09
+19137
+#EXTINF:-1,La Liga del Dragón S01 E10
+19138
+#EXTINF:-1,La Liga del Dragón S01 E11
+19139
+#EXTINF:-1,La Liga del Dragón S01 E12
+19140
+#EXTINF:-1,La Liga del Dragón S01 E13
+19141
+#EXTINF:-1,La Liga del Dragón S01 E14
+19142
+#EXTINF:-1,La Liga del Dragón S01 E15
+19143
+#EXTINF:-1,La Liga del Dragón S01 E16
+19144
+#EXTINF:-1,La Liga del Dragón S01 E17
+19145
+#EXTINF:-1,La Liga del Dragón S01 E18
+19146
+#EXTINF:-1,La Liga del Dragón S01 E19
+19147
+#EXTINF:-1,La Liga del Dragón S01 E20
+19148
+#EXTINF:-1,La Liga del Dragón S01 E21
+19149
+#EXTINF:-1,La Liga del Dragón S01 E22
+19150
+#EXTINF:-1,La Liga del Dragón S01 E23
+19151
+#EXTINF:-1,La Liga del Dragón S01 E24
+19152
+#EXTINF:-1,La Liga del Dragón S01 E25
+19153
+#EXTINF:-1,La Liga del Dragón S01 E26
+19154
+#EXTINF:-1,La Liga del Dragón S01 E27
+19155
+#EXTINF:-1,La Liga del Dragón S01 E28
+19156
+#EXTINF:-1,La Liga del Dragón S01 E29
+19157
+#EXTINF:-1,La Liga del Dragón S01 E30
+19158
+#EXTINF:-1,La Liga del Dragón S01 E31
+19159
+#EXTINF:-1,La Liga del Dragón S01 E32
+19160
+#EXTINF:-1,La Liga del Dragón S01 E33
+19161
+#EXTINF:-1,La Liga del Dragón S01 E34
+19162
+#EXTINF:-1,La Liga del Dragón S01 E35
+19163
+#EXTINF:-1,La Liga del Dragón S01 E36
+19164
+#EXTINF:-1,La Liga del Dragón S01 E37
+19165
+#EXTINF:-1,La Liga del Dragón S01 E38
+19166
 #EXTINF:-1,Rocket Power S01 E01
 19167
 #EXTINF:-1,Rocket Power S01 E02
@@ -17789,82 +17935,6 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 19282
 #EXTINF:-1,Rocket Power S03 E59
 19283
-#EXTINF:-1,La Liga del Dragón S01 E01
-19129
-#EXTINF:-1,La Liga del Dragón S01 E02
-19130
-#EXTINF:-1,La Liga del Dragón S01 E03
-19131
-#EXTINF:-1,La Liga del Dragón S01 E04
-19132
-#EXTINF:-1,La Liga del Dragón S01 E05
-19133
-#EXTINF:-1,La Liga del Dragón S01 E06
-19134
-#EXTINF:-1,La Liga del Dragón S01 E07
-19135
-#EXTINF:-1,La Liga del Dragón S01 E08
-19136
-#EXTINF:-1,La Liga del Dragón S01 E09
-19137
-#EXTINF:-1,La Liga del Dragón S01 E10
-19138
-#EXTINF:-1,La Liga del Dragón S01 E11
-19139
-#EXTINF:-1,La Liga del Dragón S01 E12
-19140
-#EXTINF:-1,La Liga del Dragón S01 E13
-19141
-#EXTINF:-1,La Liga del Dragón S01 E14
-19142
-#EXTINF:-1,La Liga del Dragón S01 E15
-19143
-#EXTINF:-1,La Liga del Dragón S01 E16
-19144
-#EXTINF:-1,La Liga del Dragón S01 E17
-19145
-#EXTINF:-1,La Liga del Dragón S01 E18
-19146
-#EXTINF:-1,La Liga del Dragón S01 E19
-19147
-#EXTINF:-1,La Liga del Dragón S01 E20
-19148
-#EXTINF:-1,La Liga del Dragón S01 E21
-19149
-#EXTINF:-1,La Liga del Dragón S01 E22
-19150
-#EXTINF:-1,La Liga del Dragón S01 E23
-19151
-#EXTINF:-1,La Liga del Dragón S01 E24
-19152
-#EXTINF:-1,La Liga del Dragón S01 E25
-19153
-#EXTINF:-1,La Liga del Dragón S01 E26
-19154
-#EXTINF:-1,La Liga del Dragón S01 E27
-19155
-#EXTINF:-1,La Liga del Dragón S01 E28
-19156
-#EXTINF:-1,La Liga del Dragón S01 E29
-19157
-#EXTINF:-1,La Liga del Dragón S01 E30
-19158
-#EXTINF:-1,La Liga del Dragón S01 E31
-19159
-#EXTINF:-1,La Liga del Dragón S01 E32
-19160
-#EXTINF:-1,La Liga del Dragón S01 E33
-19161
-#EXTINF:-1,La Liga del Dragón S01 E34
-19162
-#EXTINF:-1,La Liga del Dragón S01 E35
-19163
-#EXTINF:-1,La Liga del Dragón S01 E36
-19164
-#EXTINF:-1,La Liga del Dragón S01 E37
-19165
-#EXTINF:-1,La Liga del Dragón S01 E38
-19166
 #EXTINF:-1,Los caballeros del Zodiaco S01 E01
 19493
 #EXTINF:-1,Los caballeros del Zodiaco S01 E02
@@ -18505,6 +18575,26 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 19819
 #EXTINF:-1,José José la serie S01 E40
 19820
+#EXTINF:-1,El Lobista S01 E01
+19826
+#EXTINF:-1,El Lobista S01 E02
+19827
+#EXTINF:-1,El Lobista S01 E03
+19828
+#EXTINF:-1,El Lobista S01 E04
+19829
+#EXTINF:-1,El Lobista S01 E05
+19830
+#EXTINF:-1,El Lobista S01 E06
+19831
+#EXTINF:-1,El Lobista S01 E07
+19832
+#EXTINF:-1,El Lobista S01 E08
+19833
+#EXTINF:-1,El Lobista S01 E09
+19834
+#EXTINF:-1,El Lobista S01 E10
+19835
 #EXTINF:-1,The Whispers S01 E01
 19839
 #EXTINF:-1,The Whispers S01 E02
@@ -18531,66 +18621,6 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 19850
 #EXTINF:-1,The Whispers S01 E13
 19851
-#EXTINF:-1,El Lobista S01 E01
-19826
-#EXTINF:-1,El Lobista S01 E02
-19827
-#EXTINF:-1,El Lobista S01 E03
-19828
-#EXTINF:-1,El Lobista S01 E04
-19829
-#EXTINF:-1,El Lobista S01 E05
-19830
-#EXTINF:-1,El Lobista S01 E06
-19831
-#EXTINF:-1,El Lobista S01 E07
-19832
-#EXTINF:-1,El Lobista S01 E08
-19833
-#EXTINF:-1,El Lobista S01 E09
-19834
-#EXTINF:-1,El Lobista S01 E10
-19835
-#EXTINF:-1,Westworld S01 E01
-19873
-#EXTINF:-1,Westworld S01 E02
-19874
-#EXTINF:-1,Westworld S01 E03
-19875
-#EXTINF:-1,Westworld S01 E04
-19876
-#EXTINF:-1,Westworld S01 E05
-19877
-#EXTINF:-1,Westworld S01 E06
-19878
-#EXTINF:-1,Westworld S01 E07
-19879
-#EXTINF:-1,Westworld S01 E08
-19880
-#EXTINF:-1,Westworld S01 E09
-19881
-#EXTINF:-1,Westworld S01 E10
-19882
-#EXTINF:-1,Westworld S02 E01
-19883
-#EXTINF:-1,Westworld S02 E02
-19884
-#EXTINF:-1,Westworld S02 E03
-19885
-#EXTINF:-1,Westworld S02 E04
-19886
-#EXTINF:-1,Westworld S02 E05
-19887
-#EXTINF:-1,Westworld S02 E06
-19888
-#EXTINF:-1,Westworld S02 E07
-19889
-#EXTINF:-1,Westworld S02 E08
-19890
-#EXTINF:-1,Westworld S02 E09
-19891
-#EXTINF:-1,Westworld S02 E10
-19892
 #EXTINF:-1,El Tirador S01 E01
 19852
 #EXTINF:-1,El Tirador S01 E02
@@ -18633,6 +18663,46 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 19871
 #EXTINF:-1,El Tirador S03 E03
 19872
+#EXTINF:-1,Westworld S01 E01
+19873
+#EXTINF:-1,Westworld S01 E02
+19874
+#EXTINF:-1,Westworld S01 E03
+19875
+#EXTINF:-1,Westworld S01 E04
+19876
+#EXTINF:-1,Westworld S01 E05
+19877
+#EXTINF:-1,Westworld S01 E06
+19878
+#EXTINF:-1,Westworld S01 E07
+19879
+#EXTINF:-1,Westworld S01 E08
+19880
+#EXTINF:-1,Westworld S01 E09
+19881
+#EXTINF:-1,Westworld S01 E10
+19882
+#EXTINF:-1,Westworld S02 E01
+19883
+#EXTINF:-1,Westworld S02 E02
+19884
+#EXTINF:-1,Westworld S02 E03
+19885
+#EXTINF:-1,Westworld S02 E04
+19886
+#EXTINF:-1,Westworld S02 E05
+19887
+#EXTINF:-1,Westworld S02 E06
+19888
+#EXTINF:-1,Westworld S02 E07
+19889
+#EXTINF:-1,Westworld S02 E08
+19890
+#EXTINF:-1,Westworld S02 E09
+19891
+#EXTINF:-1,Westworld S02 E10
+19892
 #EXTINF:-1,Prison Break S01 E01
 19893
 #EXTINF:-1,Prison Break S01 E02
@@ -18821,3 +18891,489 @@ http://mdstrm.com/live-stream-playlist-v/58dc3d471cbe05ff3c8e463e
 19985
 #EXTINF:-1,La Ciudad Secreta S01 E06
 19986
+#EXTINF:-1,La casa de papel S01 E01
+19991
+#EXTINF:-1,La casa de papel S01 E02
+19992
+#EXTINF:-1,La casa de papel S01 E03
+19993
+#EXTINF:-1,La casa de papel S01 E04
+19994
+#EXTINF:-1,La casa de papel S01 E05
+19995
+#EXTINF:-1,La casa de papel S01 E06
+19996
+#EXTINF:-1,La casa de papel S01 E07
+19997
+#EXTINF:-1,La casa de papel S01 E08
+19998
+#EXTINF:-1,La casa de papel S01 E09
+19999
+#EXTINF:-1,La casa de papel S01 E10
+20000
+#EXTINF:-1,La casa de papel S01 E11
+20001
+#EXTINF:-1,La casa de papel S01 E12
+20002
+#EXTINF:-1,La casa de papel S01 E13
+20003
+#EXTINF:-1,La casa de papel S01 E14
+20004
+#EXTINF:-1,La casa de papel S01 E15
+20005
+#EXTINF:-1,Abierto hasta el amanecer: Serie S01 E01
+20006
+#EXTINF:-1,Abierto hasta el amanecer: Serie S01 E02
+20007
+#EXTINF:-1,Abierto hasta el amanecer: Serie S01 E03
+20008
+#EXTINF:-1,Abierto hasta el amanecer: Serie S01 E04
+20009
+#EXTINF:-1,Abierto hasta el amanecer: Serie S01 E05
+20010
+#EXTINF:-1,Abierto hasta el amanecer: Serie S01 E06
+20011
+#EXTINF:-1,Abierto hasta el amanecer: Serie S01 E07
+20012
+#EXTINF:-1,Abierto hasta el amanecer: Serie S01 E08
+20013
+#EXTINF:-1,Abierto hasta el amanecer: Serie S01 E09
+20014
+#EXTINF:-1,Abierto hasta el amanecer: Serie S01 E10
+20015
+#EXTINF:-1,Abierto hasta el amanecer: Serie S02 E01
+20016
+#EXTINF:-1,Abierto hasta el amanecer: Serie S02 E02
+20017
+#EXTINF:-1,Abierto hasta el amanecer: Serie S02 E03
+20018
+#EXTINF:-1,Abierto hasta el amanecer: Serie S02 E04
+20019
+#EXTINF:-1,Abierto hasta el amanecer: Serie S02 E05
+20020
+#EXTINF:-1,Abierto hasta el amanecer: Serie S02 E06
+20021
+#EXTINF:-1,Abierto hasta el amanecer: Serie S02 E07
+20022
+#EXTINF:-1,Abierto hasta el amanecer: Serie S02 E08
+20023
+#EXTINF:-1,Abierto hasta el amanecer: Serie S02 E09
+20024
+#EXTINF:-1,Abierto hasta el amanecer: Serie S02 E10
+20025
+#EXTINF:-1,Abierto hasta el amanecer: Serie S03 E01
+20026
+#EXTINF:-1,Abierto hasta el amanecer: Serie S03 E02
+20027
+#EXTINF:-1,Abierto hasta el amanecer: Serie S03 E03
+20028
+#EXTINF:-1,Abierto hasta el amanecer: Serie S03 E04
+20029
+#EXTINF:-1,Abierto hasta el amanecer: Serie S03 E05
+20030
+#EXTINF:-1,Abierto hasta el amanecer: Serie S03 E06
+20031
+#EXTINF:-1,Abierto hasta el amanecer: Serie S03 E07
+20032
+#EXTINF:-1,Abierto hasta el amanecer: Serie S03 E08
+20033
+#EXTINF:-1,Abierto hasta el amanecer: Serie S03 E09
+20034
+#EXTINF:-1,Abierto hasta el amanecer: Serie S03 E10
+20035
+#EXTINF:-1,Supergirl S01 E01
+20042
+#EXTINF:-1,Supergirl S01 E02
+20043
+#EXTINF:-1,Supergirl S01 E03
+20044
+#EXTINF:-1,Supergirl S01 E04
+20045
+#EXTINF:-1,Supergirl S01 E05
+20046
+#EXTINF:-1,Supergirl S01 E06
+20047
+#EXTINF:-1,Supergirl S01 E07
+20048
+#EXTINF:-1,Supergirl S01 E08
+20049
+#EXTINF:-1,Supergirl S01 E09
+20050
+#EXTINF:-1,Supergirl S01 E10
+20051
+#EXTINF:-1,Supergirl S01 E11
+20052
+#EXTINF:-1,Supergirl S01 E12
+20053
+#EXTINF:-1,Supergirl S01 E13
+20054
+#EXTINF:-1,Supergirl S01 E14
+20055
+#EXTINF:-1,Supergirl S01 E15
+20056
+#EXTINF:-1,Supergirl S01 E16
+20057
+#EXTINF:-1,Supergirl S01 E17
+20058
+#EXTINF:-1,Supergirl S01 E18
+20059
+#EXTINF:-1,Supergirl S01 E19
+20060
+#EXTINF:-1,Supergirl S01 E20
+20061
+#EXTINF:-1,Supergirl S02 E01
+20062
+#EXTINF:-1,Supergirl S02 E02
+20063
+#EXTINF:-1,Supergirl S02 E03
+20064
+#EXTINF:-1,Supergirl S02 E04
+20065
+#EXTINF:-1,Supergirl S02 E05
+20066
+#EXTINF:-1,Supergirl S02 E06
+20067
+#EXTINF:-1,Supergirl S02 E07
+20068
+#EXTINF:-1,Supergirl S02 E08
+20069
+#EXTINF:-1,Supergirl S02 E09
+20070
+#EXTINF:-1,Supergirl S02 E10
+20071
+#EXTINF:-1,Supergirl S02 E11
+20072
+#EXTINF:-1,Supergirl S02 E12
+20073
+#EXTINF:-1,Supergirl S02 E13
+20074
+#EXTINF:-1,Supergirl S02 E14
+20075
+#EXTINF:-1,Supergirl S02 E15
+20076
+#EXTINF:-1,Supergirl S02 E16
+20077
+#EXTINF:-1,Supergirl S02 E17
+20078
+#EXTINF:-1,Supergirl S02 E18
+20079
+#EXTINF:-1,Supergirl S02 E19
+20080
+#EXTINF:-1,Supergirl S02 E20
+20081
+#EXTINF:-1,Supergirl S02 E21
+20082
+#EXTINF:-1,Supergirl S02 E22
+20083
+#EXTINF:-1,Supergirl S03 E01
+20084
+#EXTINF:-1,Supergirl S03 E02
+20085
+#EXTINF:-1,Supergirl S03 E03
+20086
+#EXTINF:-1,Supergirl S03 E04
+20087
+#EXTINF:-1,Supergirl S03 E05
+20088
+#EXTINF:-1,Supergirl S03 E06
+20089
+#EXTINF:-1,Supergirl S03 E07
+20090
+#EXTINF:-1,Supergirl S03 E08
+20091
+#EXTINF:-1,Supergirl S03 E09
+20092
+#EXTINF:-1,Supergirl S03 E10
+20093
+#EXTINF:-1,Supergirl S03 E11
+20094
+#EXTINF:-1,Supergirl S03 E12
+20095
+#EXTINF:-1,Supergirl S03 E13
+20096
+#EXTINF:-1,Supergirl S03 E14
+20097
+#EXTINF:-1,Supergirl S03 E15
+20098
+#EXTINF:-1,Supergirl S03 E16
+20099
+#EXTINF:-1,Supergirl S03 E17
+20100
+#EXTINF:-1,Supergirl S03 E18
+20101
+#EXTINF:-1,Supergirl S03 E19
+20102
+#EXTINF:-1,Supergirl S03 E20
+20103
+#EXTINF:-1,Supergirl S03 E21
+20104
+#EXTINF:-1,Supergirl S03 E22
+20105
+#EXTINF:-1,Bonanza S01 E01
+20161
+#EXTINF:-1,Bonanza S01 E02
+20180
+#EXTINF:-1,Bonanza S01 E03
+20181
+#EXTINF:-1,Bonanza S01 E04
+20178
+#EXTINF:-1,Bonanza S01 E05
+20170
+#EXTINF:-1,Bonanza S01 E06
+20162
+#EXTINF:-1,Bonanza S01 E07
+20184
+#EXTINF:-1,Bonanza S01 E08
+20173
+#EXTINF:-1,Bonanza S01 E09
+20171
+#EXTINF:-1,Bonanza S01 E10
+20154
+#EXTINF:-1,Bonanza S01 E11
+20183
+#EXTINF:-1,Bonanza S01 E12
+20172
+#EXTINF:-1,Bonanza S01 E13
+20169
+#EXTINF:-1,Bonanza S01 E14
+20176
+#EXTINF:-1,Bonanza S01 E15
+20157
+#EXTINF:-1,Bonanza S01 E16
+20175
+#EXTINF:-1,Bonanza S01 E17
+20166
+#EXTINF:-1,Bonanza S01 E18
+20168
+#EXTINF:-1,Bonanza S01 E19
+20179
+#EXTINF:-1,Bonanza S01 E20
+20156
+#EXTINF:-1,Bonanza S01 E21
+20165
+#EXTINF:-1,Bonanza S01 E22
+20164
+#EXTINF:-1,Bonanza S01 E23
+20167
+#EXTINF:-1,Bonanza S01 E24
+20163
+#EXTINF:-1,Bonanza S01 E25
+20158
+#EXTINF:-1,Bonanza S01 E26
+20155
+#EXTINF:-1,Bonanza S01 E27
+20185
+#EXTINF:-1,Bonanza S01 E28
+20177
+#EXTINF:-1,Bonanza S01 E29
+20174
+#EXTINF:-1,Bonanza S01 E30
+20159
+#EXTINF:-1,Bonanza S01 E31
+20160
+#EXTINF:-1,Bonanza S01 E32
+20182
+#EXTINF:-1,Bonanza S02 E01
+20120
+#EXTINF:-1,Bonanza S02 E02
+20121
+#EXTINF:-1,Bonanza S02 E03
+20122
+#EXTINF:-1,Bonanza S02 E04
+20123
+#EXTINF:-1,Bonanza S02 E05
+20124
+#EXTINF:-1,Bonanza S02 E06
+20125
+#EXTINF:-1,Bonanza S02 E07
+20126
+#EXTINF:-1,Bonanza S02 E08
+20127
+#EXTINF:-1,Bonanza S02 E09
+20128
+#EXTINF:-1,Bonanza S02 E10
+20129
+#EXTINF:-1,Bonanza S02 E11
+20130
+#EXTINF:-1,Bonanza S02 E12
+20131
+#EXTINF:-1,Bonanza S02 E13
+20132
+#EXTINF:-1,Bonanza S02 E14
+20133
+#EXTINF:-1,Bonanza S02 E15
+20134
+#EXTINF:-1,Bonanza S02 E16
+20135
+#EXTINF:-1,Bonanza S02 E17
+20136
+#EXTINF:-1,Bonanza S02 E18
+20137
+#EXTINF:-1,Bonanza S02 E19
+20138
+#EXTINF:-1,Bonanza S02 E20
+20139
+#EXTINF:-1,Bonanza S02 E21
+20140
+#EXTINF:-1,Bonanza S02 E22
+20141
+#EXTINF:-1,Bonanza S02 E23
+20142
+#EXTINF:-1,Bonanza S02 E24
+20143
+#EXTINF:-1,Bonanza S02 E25
+20144
+#EXTINF:-1,Bonanza S02 E26
+20145
+#EXTINF:-1,Bonanza S02 E27
+20146
+#EXTINF:-1,Bonanza S02 E28
+20147
+#EXTINF:-1,Bonanza S02 E29
+20148
+#EXTINF:-1,Bonanza S02 E30
+20149
+#EXTINF:-1,Bonanza S02 E31
+20150
+#EXTINF:-1,Bonanza S02 E32
+20151
+#EXTINF:-1,Bonanza S02 E33
+20152
+#EXTINF:-1,Bonanza S02 E34
+20153
+#EXTINF:-1,Bonanza S03 E01
+20220
+#EXTINF:-1,Bonanza S03 E02
+20221
+#EXTINF:-1,Bonanza S03 E03
+20222
+#EXTINF:-1,Bonanza S03 E04
+20223
+#EXTINF:-1,Bonanza S03 E05
+20224
+#EXTINF:-1,Bonanza S03 E06
+20225
+#EXTINF:-1,Bonanza S03 E07
+20226
+#EXTINF:-1,Bonanza S03 E08
+20227
+#EXTINF:-1,Bonanza S03 E09
+20228
+#EXTINF:-1,Bonanza S03 E10
+20229
+#EXTINF:-1,Bonanza S03 E11
+20230
+#EXTINF:-1,Bonanza S03 E12
+20231
+#EXTINF:-1,Bonanza S03 E13
+20232
+#EXTINF:-1,Bonanza S03 E14
+20233
+#EXTINF:-1,Bonanza S03 E15
+20234
+#EXTINF:-1,Bonanza S03 E16
+20235
+#EXTINF:-1,Bonanza S03 E17
+20236
+#EXTINF:-1,Bonanza S03 E18
+20237
+#EXTINF:-1,Bonanza S03 E19
+20238
+#EXTINF:-1,Bonanza S03 E20
+20239
+#EXTINF:-1,Bonanza S03 E21
+20240
+#EXTINF:-1,Bonanza S03 E22
+20241
+#EXTINF:-1,Bonanza S03 E23
+20242
+#EXTINF:-1,Bonanza S03 E24
+20243
+#EXTINF:-1,Bonanza S03 E25
+20244
+#EXTINF:-1,Bonanza S03 E26
+20245
+#EXTINF:-1,Bonanza S03 E27
+20246
+#EXTINF:-1,Bonanza S03 E28
+20247
+#EXTINF:-1,Bonanza S03 E29
+20248
+#EXTINF:-1,Bonanza S03 E30
+20249
+#EXTINF:-1,Bonanza S03 E31
+20250
+#EXTINF:-1,Bonanza S03 E32
+20251
+#EXTINF:-1,Bonanza S03 E33
+20252
+#EXTINF:-1,Bonanza S03 E34
+20253
+#EXTINF:-1,Bonanza S04 E01
+20186
+#EXTINF:-1,Bonanza S04 E02
+20187
+#EXTINF:-1,Bonanza S04 E03
+20188
+#EXTINF:-1,Bonanza S04 E04
+20189
+#EXTINF:-1,Bonanza S04 E05
+20190
+#EXTINF:-1,Bonanza S04 E06
+20191
+#EXTINF:-1,Bonanza S04 E07
+20192
+#EXTINF:-1,Bonanza S04 E08
+20193
+#EXTINF:-1,Bonanza S04 E09
+20194
+#EXTINF:-1,Bonanza S04 E10
+20195
+#EXTINF:-1,Bonanza S04 E11
+20196
+#EXTINF:-1,Bonanza S04 E12
+20197
+#EXTINF:-1,Bonanza S04 E13
+20198
+#EXTINF:-1,Bonanza S04 E14
+20199
+#EXTINF:-1,Bonanza S04 E15
+20200
+#EXTINF:-1,Bonanza S04 E16
+20201
+#EXTINF:-1,Bonanza S04 E17
+20202
+#EXTINF:-1,Bonanza S04 E18
+20203
+#EXTINF:-1,Bonanza S04 E19
+20204
+#EXTINF:-1,Bonanza S04 E20
+20205
+#EXTINF:-1,Bonanza S04 E21
+20206
+#EXTINF:-1,Bonanza S04 E22
+20207
+#EXTINF:-1,Bonanza S04 E23
+20208
+#EXTINF:-1,Bonanza S04 E24
+20209
+#EXTINF:-1,Bonanza S04 E25
+20210
+#EXTINF:-1,Bonanza S04 E26
+20211
+#EXTINF:-1,Bonanza S04 E27
+20212
+#EXTINF:-1,Bonanza S04 E28
+20213
+#EXTINF:-1,Bonanza S04 E29
+20214
+#EXTINF:-1,Bonanza S04 E30
+20215
+#EXTINF:-1,Bonanza S04 E31
+20216
+#EXTINF:-1,Bonanza S04 E32
+20217
+#EXTINF:-1,Bonanza S04 E33
+20218
+#EXTINF:-1,Bonanza S04 E34
+20219
