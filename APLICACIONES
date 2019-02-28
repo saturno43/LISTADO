@@ -4,45 +4,35 @@
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 CANAL DE TELEGRAM DE LATIN TV PARA INFORMACIONES
-
 https://t.me/joinchat/AAAAAEFYnKZu0JbxOXfIDA
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 GENERADOR DE LISTA PERSONALIZADA (actualizado)
-
 http://lista.latintvweb.com/generador/
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-GENERADOR PARA OTT PLAYER LISTA REMOTA
-
-http://lista.latintvweb.com/ottplayer/
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+REPRODUCTOR WEB (Nuevo)
+http://185.152.66.151:25461/webplayer/index.php
 
 REPRODUCTOR WEB
-
 http://tv.latintvweb.com:8000/client_area/
  
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 GUIA EPG (SOLO REEMPLAZA LOS XXX POR TUS DATOS)
-
 http://tv.latintvweb.com:8000/xmltv.php?username=XXXXX&password=XXXXX
  
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
  
  PORTAL MAG
- 
  http://tv.latintvweb.com:8000/c/
  
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
  
- APLICACIONES LATIN TV ANDROID
- 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
- 
+APLICACIONES LATIN TV ANDROID
+
 LATINTV BOX 2.0 EN PLAY STORE
 https://play.google.com/store/apps/details?id=com.nst.iptvlatintvboxip
 
@@ -58,17 +48,17 @@ https://play.google.com/store/apps/details?id=com.latintvplus.latintvplusiptv
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 DIRECTORIO DE TODAS LAS APLICACIONES ANDROID DE LATIN TV
-
 http://185.152.66.151/apk/
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ENLACES DE DESCARGA DIRECTA 
 
-DESCARGA APK LATIN TV BOX (actualizada con nuevo puerto)
+DESCARGA APK LATIN TV BOX 
 http://185.152.66.151/apk/latintvBOX.apk
 
 DESCARGA APK LATIN HD (perfect player)
-http://185.152.66.151/apk/latintvhd.apk
+http://185.152.66.151/apk/latintvhdperfecplayer.apk
 
 DESCARGA APK LATIN TV 2.0
 http://185.152.66.151/apk/LatinTv2.0.apk
@@ -78,13 +68,6 @@ http://185.152.66.151/apk/latintvbox2.0.apk
 
 DESCARGA APK LATIN V3
 http://185.152.66.151/apk/LatinTvV4.apk
-
-[ANDROID - IOS - IPAD - IPHONE]
-IPTV-Smarters 
-https://itunes.apple.com/mx/app/iptv-smarters/id1383614816?mt=8
-host: http://tv.proyectox.  vip:8000 (junte los espacios)
-username: TU USUARIO
-password: TU CONTRASEÑA
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -109,148 +92,12 @@ CARACTERISTICAS DE LATIN TV:
 - Mas de 1.200 peliculas
 - Mas de 180 series
 
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 LISTADO DE CANALES DE LATIN TV (actualizada 11/01/2019)
 https://raw.githubusercontent.com/saturno43/LISTADO/master/LATINTV
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-
-
-
-
-
-
--WSU HD
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-REPRODUCTOR WEB WSU HD
-
-http://i-p.tv:8000/client_area/
-
-http://i-p.tv:8000/webplayer/
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-GUIA EPG DE WSU HD(SOLO REEMPLAZA LOS XXX POR TUS DATOS)
-
-http://i-p.tv:8000/xmltv.php?username=XXXXX&password=XXXXX
- 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
- 
-PORTAL MAG
-
-http://i-p.tv:8000/c
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-APLICACIONES WSU HD ANDROID
- 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
- 
-APLICACION OFICIAL EN PLAY STORE
-https://play.google.com/store/apps/details?id=com.wsuhd.wsuhdiptv
-(coloca el usuario y contraseña de tu cuenta)
-
-DESCARGA DIRECTA
-
-PERFECT PLAYER
-http://w-4k.com/perfectplayer_wsuhd.apk
-
-APLICACION TV BOX
-http://w-hd.net/wtvbox.apk
-
-PERFECT PLAYER
-http://i-p.tv/perfectplayer_iptvuhd.apk
-
-APLICACION TV BOX
-http://i-p.tv/iptvuhd_tvbox_v1.2.apk
-
-APLICACION MOVIL
-http://i-p.tv/iptvuhd_movil_v1.2.apk
-
-[ANDROID - IOS - IPAD - IPHONE]
-IPTV-Smarters 
-https://itunes.apple.com/mx/app/iptv-smarters/id1383614816?mt=8
-host: http://i-p.tv:8000
-username: TU USUARIO
-password: TU CONTRASEÑA
-
-WSU HD EN KODI 
-Repo Source:  
-http://i-p.tv/kodi/
-
-FIRETV
-Codigo FireDL:  
-370679
-
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-Listas Optimizadas para OTTPlayer y SmartIPTV   <-----(Nuevo)
-
-TODO= Canales en Formato .ts / VOD / SERIES ORDENAS
-http://i-p.tv/sip/USERNAME/PASSWORD/playlist.m3u
-
-TODO= Canales en Formato .m3u8 / VOD / SERIES ORDENAS
-http://i-p.tv/sip8/USERNAME/PASSWORD/playlist.m3u
-
-Solo Canales en Formato .ts
-http://i-p.tv/ts/USERNAME/PASSWORD/playlist.m3u
-
-Solo Canales en Formato .m3u8
-http://i-p.tv/m3u8/USERNAME/PASSWORD/playlist.m3u
-
-Solo VOD Peliculas
-http://i-p.tv/vod/USERNAME/PASSWORD/playlist.m3u
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-CARACTERISTICAS DE WSU HD:
-
-- Mas de 800 canales
-- Mas de 300 HD
-- Mas de 200 FHD (INCLUIDOS SOLO EN EL PACK 2)
-- Mas de 40 canales 24/7
-- 5 CDF (incluye estadio CDF)
-- Mas de 2.000 peliculas
-- Mas de 30 series
-- Mas de 120 conciertos
-- Mas de 100 documentales
-- 13 Teleseries Chilenas
-  Sucupira - Sucupira Comedia - TicTac - La Fiera 
-  Aquelarre - Romane - Amores de Mercado
-  Los Pincherira - Papi Ricky - Infieles
-  Si yo fuera rico - Perdona Nuestros Pecados.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-LISTADO DE CANALES PACK 1  (actualizada 23/09/2018)
-https://raw.githubusercontent.com/saturno43/LISTADO/master/W-SUHD%20(pack1)
-
-http://i-p.tv/CHPACK1.php
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-LISTADO DE CANALES PACK 2  (actualizada 23/09/2018)
-https://raw.githubusercontent.com/saturno43/LISTADO/master/W-SUHD%20(pack2)
-
-http://i-p.tv/CHPACK2.php
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-
-
-
-
-
-
-
 
 REPRODUCTORES DE IPTV
 
@@ -287,7 +134,6 @@ https://play.google.com/store/apps/details?id=com.pecana.iptvextreme
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 SMART TV
 
 SSIPTV
@@ -303,7 +149,6 @@ FORK PLAYER
 http://forkplayer.tv/
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 
 IPHONE - IPAD - APPLE TV
 
@@ -321,7 +166,6 @@ https://itunes.apple.com/us/app/iptv-smarters/id1383614816?mt=8
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 IMAC - MACBOOK
 
 GSE IPTV
@@ -334,7 +178,6 @@ VLC PLAYER
 https://www.videolan.org/vlc/index.es.html
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 
 COMPUTADOR
 
