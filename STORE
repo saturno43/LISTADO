@@ -29,11 +29,8 @@ PASSWORD: XXXXXX
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 REPRODUCTOR WEB (nuevo)
-http://tv.premiumstore.biz/
+http://iptv.premiumstore.biz:25461/client_area/
 
-REPRODUCTOR WEB
-http://iptv.premiumstore.biz:25461/client_area
- 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 GUIA EPG (SOLO REEMPLAZA LOS XXX POR TUS DATOS)
