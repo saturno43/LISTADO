@@ -1,4 +1,3 @@
-
 - PREMIUM STORE
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -20,14 +19,9 @@ PASSWORD: XXXXXX
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-REPRODUCTOR WEB (nuevo)
-http://iptv.premiumstore.biz:25461/client_area/
+REPRODUCTOR WEB 
+http://iptv.premiumstore.biz:25461/client_area
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-GUIA EPG (SOLO REEMPLAZA LOS XXX POR TUS DATOS)
-http://iptv.premiumstore.biz:25461/xmltv.php?username=XXXXX&password=XXXXX
- 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 PREMIUM STORE TV PLUS EN PLAY STORE 
@@ -42,30 +36,51 @@ https://premiumstore.biz/apk/ps.apk
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-CARACTERISTICAS
+CARACTERISTICAS:
 
-- Mas de 1700 canales
-- Mas de 100 canales Full HD 1080
+- Mas de 1900 canales
+- Mas de 200 canales Full HD 
 - Mas de 200 canales HD
-- 56 canales 24/7
-- 8 CDF (incluye CDF 60 fps y CDF para móviles)
-- Mega Plus, via X y Zona Latina
+- 7 canales 24/7 propios
+- Seccion PPV diaria
+- 90 canales 24/7
+- 8 CDF (incluye CDF Full HD)
+- Mega Plus, , rec tv, via X y Zona Latina
 - Canales Regionales de Chile
-- 30 canales de Brasil
-- 270 canales de España
-- 108 canales de USA
-- 90 canales Suecia
+- NBA - NFL
+- 150 canales de Brasil
+- 115 canales de España
+- 115 canales de USA
+- 25 canales Reino Unido
+- 115 canales Canada
 - Peliculas 4K
+- Peliculas 60 FPS
+- Peliculas 3D
+- Karaoke
+- Conciertos
+- Anime
+- Peliculas Chilenas
+- Videos Bailables
+- Conciertos tropicales
+- Teleseries
+- Videos de deporte
+- Mundo retro
 - Videos Fitness
 - Videos de Humor
 - Karaokes
 - Mas de 2.530 peliculas
-- Mas de 231 series
+- Mas de 210 series
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-LISTADO DE CANALES (actualizado 01/09/2019)
+LISTADO DE CANALES
 https://raw.githubusercontent.com/saturno43/LISTADO/master/premiumstore
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
 
 
 
@@ -200,6 +215,12 @@ http://cherryplayer.com/
 
 
 
+
+
+
+
+
+
 - TICKPLAY
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -222,8 +243,6 @@ https://play.google.com/store/apps/details?id=com.tickplay.tickplayiptvbox
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 DESCARGA APK DE PREMIUM STORE EN DESCARGA DIRECTA
-
-TICKPLAY (Nueva)
 http://panel.tickplay.tv/recursos/TICKPLAY.apk
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
