@@ -19,6 +19,11 @@ PASSWORD: XXXXXX
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+GUIA EPG
+http://iptv.premiumstore.biz:8080/xmltv.php?username=XXXXX&password=XXXXX
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 REPRODUCTOR WEB 
 http://iptv.premiumstore.biz:25461/client_area
 
