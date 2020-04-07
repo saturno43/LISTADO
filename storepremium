@@ -45,7 +45,10 @@ http://iptv.premiumstore.biz:8080/xmltv.php?username=XXXXX&password=XXXXX
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-REPRODUCTOR WEB 
+REPRODUCTOR WEB (opcion 1)
+http://tv.premiumstore.biz
+
+REPRODUCTOR WEB (opcion 2)
 http://iptv.premiumstore.biz:25461/client_area
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
