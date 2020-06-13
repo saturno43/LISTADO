@@ -25,27 +25,6 @@ SSIPTV: 91.122.100.196
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-ACORTADOR DE LA LISTA
-
-✅ TODO EL CONTENIDO
-http://51.79.70.164/aco/?USER=usuario|contraseña|S|S|S
-
-✅ SOLO CANALES
-http://51.79.70.164/aco/?USER=usuario|contraseña|S|N|N
-
-✅ SOLO VOD
-http://51.79.70.164/aco/?USER=usuario|contraseña|N|S|N
-
-✅ SOLO SERIES
-http://51.79.70.164/aco/?USER=usuario|contraseña|N|N|S
-
-✅ CANALES + VOD
-http://51.79.70.164/aco/?USER=usuario|contraseña|S|S|N
-
-DESPUES DE LA CONTRASEÑA LA PRIMERA S ES CANALES, LUEGO VOD  Y SERIES LA "S" ES DE SI LA "N
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 DNS CUANDO NO ESTA BANEADA LA IP Y NO CARGA (ESPAÑA - COLOMBIA - ECUADOR)
 http://tv.pstore-tv.com:8080/
 
